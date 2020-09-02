@@ -16,7 +16,9 @@ class ViewController: UIViewController {
         
         print("From branch B2")
     }
-
+    func dispaly() {
+         print("From branch B2")
+    }
 
 }
 
